@@ -124,3 +124,8 @@ RTL-SDR (uint8 IQ)
 | Ancho de banda | hasta 3.2 MS/s |
 | ADC | 8 bits |
 | Oscilador | TCXO ±0.5 ppm |
+
+---
+## Validación de Funcionamiento 
+Se sintonizará la radio FM Moda (97.3MHz)
+![image.png](image.png)
