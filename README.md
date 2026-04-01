@@ -55,6 +55,7 @@ make -j$(nproc)
 ```bash
 ./build/RTLSpectrum
 ```
+![image2.png](image2.png)
 
 Si aparece error de permisos USB:
 ```bash
